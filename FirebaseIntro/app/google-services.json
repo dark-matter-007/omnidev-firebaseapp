@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207744436847",
+    "project_id": "fir-practice-dddaf",
+    "storage_bucket": "fir-practice-dddaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207744436847:android:6134780829c3a504bc5b9a",
+        "android_client_info": {
+          "package_name": "com.softwarebyashwin.firebaseintro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdTXBjdyCEGn7vN61boXNNaGjmD0iSKLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
