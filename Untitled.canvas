@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a0e091d5e95740ed","x":0,"y":-280,"width":250,"height":200,"type":"text","text":"FIrebase RTDB"},
+		{"id":"85c9b0fd3562bbf4","x":-500,"y":-280,"width":250,"height":200,"type":"text","text":"App"},
+		{"id":"b66cf330f2783c05","type":"text","text":"App","x":460,"y":-280,"width":250,"height":200},
+		{"id":"59210204d2669ade","x":0,"y":-60,"width":250,"height":60,"type":"text","text":"ip addresss "},
+		{"id":"a53856640e0b2168","x":-220,"y":160,"width":120,"height":60,"type":"text","text":"API"}
+	],
+	"edges":[
+		{"id":"9e312b5256dc86d0","fromNode":"85c9b0fd3562bbf4","fromSide":"top","toNode":"a0e091d5e95740ed","toSide":"top","fromEnd":"arrow","label":"initialize ( this )"},
+		{"id":"09c069e388600629","fromNode":"b66cf330f2783c05","fromSide":"top","toNode":"a0e091d5e95740ed","toSide":"top","fromEnd":"arrow"},
+		{"id":"2c3f4da38c788ba7","fromNode":"85c9b0fd3562bbf4","fromSide":"bottom","toNode":"a53856640e0b2168","toSide":"left","label":"get / post request"},
+		{"id":"f8aab71e39b7e340","fromNode":"a53856640e0b2168","fromSide":"right","toNode":"59210204d2669ade","toSide":"bottom"},
+		{"id":"e8d5b0caeeae764b","fromNode":"59210204d2669ade","fromSide":"bottom","toNode":"a53856640e0b2168","toSide":"bottom","color":"4"},
+		{"id":"94ace6dccc50bbed","fromNode":"a53856640e0b2168","fromSide":"top","toNode":"85c9b0fd3562bbf4","toSide":"bottom","color":"4"}
+	]
+}
